@@ -130,3 +130,6 @@ dmypy.json
 
 #ds stote
 .DS_Dtore
+
+# ignore results
+Results/
