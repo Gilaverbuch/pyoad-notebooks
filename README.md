@@ -1,2 +1,2 @@
 # pyoad-notebooks
-Example notebooks for the pyoad package
+Example notebooks for the pyoad package. Work in progress...
